@@ -1,8 +1,8 @@
-// Online C++ compiler to run C++ program online
+
 #include <iostream>
 
 int main() {
-    // Write C++ code here
+    
      int a ;
     std::cout << "enter first number ";
     std::cin>>a;
@@ -14,4 +14,5 @@ int main() {
     }
 
     return 0;
+
 }
